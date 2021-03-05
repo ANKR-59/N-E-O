@@ -1,0 +1,50 @@
+h1
+{
+	color:white;
+}
+
+h2
+{
+	color:white;
+}
+
+a
+{
+	color:white;
+}
+
+li
+{
+	color:white;
+}
+
+p
+{
+	color:white;
+}
+
+body
+{
+	background-color:black;
+}
+
+#zone
+
+{
+
+ width: 1000px;
+
+margin:0 auto;
+
+background-color: black;
+
+text-align: center;
+
+align-content: center;
+
+}
+
+ul li
+{
+	list-style-type:none;
+}
